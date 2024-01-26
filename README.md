@@ -2,7 +2,7 @@
 This is Akash Singh
 
 <h1 align="center">Hi 👋, I'm AKASH SINGH</h1>
-<h3 align="center">A passionate about Tech , Scienece and Program frontend developer from India</h3>
+<h3 align="center">A passionate about Tech , Science and Program frontend developer from India</h3>
 
 - 🔭 I’m currently working on [EazEae |App-Web](https://github.com/akashsingh-ops/EazEae_MajorProject)
 
