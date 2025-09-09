@@ -1,33 +1,60 @@
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
-<h3 align="center">Full-Stack Developer | Passionate about Tech, Science & Scalable Systems</h3>
+<h3 align="center">Backend Developer | Python • Django • REST APIs • Neo4j | Open to Backend & Full-Stack Roles</h3>
 
-- 🔭 Currently building **cloud-based analytics platforms** at [Xaigi Technology](https://xaigi.com), integrating **Django, Neo4j, React, and Apache Superset**.
-- 🌱 Learning and working with **microservices, AWS (EC2, S3, IAM, Lambda), and advanced backend workflows**.
-- 💬 Ask me about **Python, Django REST Framework, Neo4j, React.js, Node.js, MySQL, API design, and scalable systems**.
-- 📫 Reach me at **akashsingh285285@gmail.com**
-- 📄 Know more about my experiences: [Resume](https://drive.google.com/file/d/1zST2uN5fzpL1sxaqHJrWfrQDlHwewbRr/view?usp=share_link)
+- 🔭 Currently working as a **Backend Developer at Xaigi Technology**, building scalable **API-driven systems** with Django, Neo4j, and Apache Superset.  
+- 🌱 Exploring **cloud deployments (AWS – EC2, S3, IAM, Lambda), Docker, and microservices** to strengthen system scalability and automation.  
+- 💬 Ask me about **Python, Django REST Framework, Neo4j (Cypher), MySQL, Node.js, API Design, Query Optimization**.  
+- 📫 Reach me at **akashsingh285285@gmail.com**  
+- 📄 My Resume: [View here](https://drive.google.com/file/d/1zST2uN5fzpL1sxaqHJrWfrQDlHwewbRr/view?usp=share_link)  
+- ⚡ Fun fact: I enjoy solving **DSA problems** (300+ solved on LeetCode & GFG) and experimenting with new **backend optimizations**.  
 
 ---
 
 ### 🚀 Experience
-- **Full-Stack Developer @ Xaigi Technology (04/2024 – Present)**
-  - Engineered **70+ REST APIs** and optimized **35+ Cypher queries** (35% faster).
-  - Directed backend for **OceanMotion**, a cloud analytics platform with licensing & publishing workflows.
-  - Built **AnalyticsDashboard.ai**, an AI-powered analytics system with RBAC, subscriptions & advanced charting.
-- **Software Developer Intern @ Terra-link Global (05/2023 – 07/2023)**
-  - Integrated **SAP UI5 frontend** with backend CRUD APIs.
-- **Frontend Developer Intern @ Oasis Infobyte (01/2023 – 03/2023)**
-  - Built a full-stack internal tool with **JavaScript, Python, SQL**.
+
+**Backend Developer | Xaigi Technology** (Apr 2024 – Present)  
+- Engineered the **core backend of OceanMotion**, a cloud analytics platform combining Django, Neo4j, and Apache Superset.  
+- Designed & deployed **dataset CRUD, licensing, RBAC-based sharing**, and subscription workflows.  
+- Spearheaded the **Group Module**, enabling 100+ users to collaborate on datasets/dashboards with role-based access.  
+- Optimized **15+ complex Cypher queries**, reducing response time by **35%** through indexing & traversal refactoring.  
+- Delivered **70+ production-grade REST APIs** with pagination, filtering, and secure authentication.  
+- Architected **AnalyticsDashboard.ai**, an AI-powered platform with RBAC organization management, subscription lifecycles, and advanced chart/data-source analytics.  
+
+**Full-Stack Developer Intern | TerraLink Global** (May 2023 – Jul 2023)  
+- Built extensions on **SAP BTP**, connecting SAP UI5 frontend with backend APIs.  
+
+**Full-Stack Developer Intern | Oasis Infobyte** (Jan 2023 – Mar 2023)  
+- Developed a full-stack internal tool using **ReactJS, Node.js, Express.js, and SQL**.  
+
+**Web Developer Trainee | Devsnest** (Mar 2022 – Sep 2022)  
+- Enhanced knowledge of **DSA + Web Development**; built responsive apps with HTML, CSS, JS.  
+
+**Frontend Developer Trainee | B2E CODER** (May 2020 – Oct 2020)  
+- Trained in **HTML, CSS, JavaScript, PHP, MySQL**; gained hands-on DBMS experience.  
 
 ---
 
 ### 📌 Projects
-- **FoodApp (E-commerce Platform)** – React, Node.js, MySQL  
-  Full-stack solo build, integrated **PayPal payments**, scaled to 300+ daily users.
 - **EazEae (Tourism App)** – React Native, Node.js, MongoDB  
-  Mobile app with **QR-based entry system** and recommendation engine, 500+ daily check-ins.
+  - Designed **QR-based entry system** & admin dashboard, improving access accuracy by 75% and handling **500+ daily check-ins**.  
+
+- **Food E-commerce Platform** – React, Node.js, MySQL  
+  - Built a dynamic ordering platform with **secure payments (PayPal)**, scaled to 300+ daily users.  
+
 - **Geek-Search (Learning Portal)** – HTML5, Bootstrap, MySQL  
-  Used by **1000+ students** for quizzes and tutorials.
+  - Adopted by **1000+ students** for online quizzes/tutorials with responsive design.  
+
+---
+
+### 🎓 Education
+- **B.Tech, Computer Science & IT** – KIET Group of Institutions (2024) | First Division  
+- **Diploma in IT** – Dayalbagh Educational Institute (2021) | CGPA: 8.91  
+
+---
+
+### 🏆 Achievements
+- 🥈 Runner-up at Departmental Hackathon (KIET) – built an innovative learning platform.  
+- 🎯 Solved **300+ DSA problems** (LeetCode, GFG, Devsnest) | **3⭐ HackerRank Problem Solving**.  
 
 ---
 
@@ -36,23 +63,19 @@
 <a href="https://twitter.com/akash_dilkash" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akash-singh-aa0b601a3" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21962478/akash-singh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/akash_dilkash" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akashsingh285285" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 <a href="https://leetcode.com/akashsingh2002" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/akashsingh285285" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akashsingh285285/practice" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://neo4j.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Neo4j-logo_color.png" width="40" height="40"/></a>
-<a href="https://www.postman.com/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-<a href="https://aws.amazon.com/"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/></a>
-</p>
+### 🛠️ Tech Stack & Tools
+**Languages:** Python, JavaScript, Java, C, C++  
+**Backend:** Django, DRF, Node.js, Express.js  
+**Frontend:** React.js, React Native, HTML, CSS, Tailwind, Bootstrap  
+**Databases:** MySQL, Neo4j, MongoDB (familiar), Redis (familiar)  
+**Cloud & Tools:** AWS (EC2, S3, IAM, Lambda), Docker, Git, Postman, Jira, Apache Superset  
+**Testing:** unittest, pytest, Jest (basic)  
+
+---
